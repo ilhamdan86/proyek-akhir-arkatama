@@ -19,7 +19,7 @@
                 <div id="product-images" class="carousel slide" data-ride="carousel">
                     <!-- slides -->
                     <div class="carousel-inner">
-                        <div class="carousel-item active"> <img src="{{ asset('img/1.jpg') }}" alt="Product 1"> </div>
+                        <div class="carousel-item active"> <img src="{{ asset('img/1.png') }}" alt="Product 1"> </div>
                         <div class="carousel-item"> <img src="{{ asset('img/2.jpg') }}" alt="Product 2"> </div>
                         <div class="carousel-item"> <img src="{{ asset('img/3.jpg') }}" alt="Product 3"> </div>
                         <div class="carousel-item"> <img src="{{ asset('img/4.jpg') }}" alt="Product 4"> </div>
